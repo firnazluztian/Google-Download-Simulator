@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google Download Simulator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="description">this app main purpose is to simulate download behaviour in google play store</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+</resources>
